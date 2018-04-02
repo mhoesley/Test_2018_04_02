@@ -1,4 +1,5 @@
 # Test_2018_04_02
 Sample Repository
 
-Here are a few comments being added
+Here is a comment being added.
+Here's another comment being added.
